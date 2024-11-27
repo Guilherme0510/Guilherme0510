@@ -1,11 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou Guilherme!
 
+🚀 Desenvolvedor Front-end apaixonado por criar interfaces incríveis.  
+🎯 Buscando me tornar o melhor UI/UX Designer e Dev Front-end de todos os tempos.  
+🌟 Explorando React.js, TypeScript, React Native e Tailwind CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🛠️ Minhas Tecnologias Preferidas:
+- **Linguagens:** JavaScript, TypeScript
+- **Frameworks:** React.js, React Native
+- **Estilo:** Tailwind CSS, Bootstrap, CSS Puro
+
+---
+
+### 🌐 Onde me Encontrar:
+- 🌍 [Portfólio](https://guilhermeleite.netlify.app/)
+- 💼 [LinkedIn](www.linkedin.com/in/guilherme-silva-a26034239)
