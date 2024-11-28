@@ -32,5 +32,5 @@
 
 ### 🌐 Onde me Encontrar:
 - 🌍 [Portfólio](https://guilhermeleite.netlify.app/)
-- 💼 [LinkedIn](www.linkedin.com/in/guilherme-silva-a26034239)
+- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-silva-a26034239/)
 
