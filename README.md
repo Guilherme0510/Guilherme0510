@@ -35,7 +35,7 @@
 - Implementei queries SQL estruturadas com **CTEs (Common Table Expressions)** para higienizar dados altamente corrompidos na origem (normalização de strings de texto para formato numérico de centavos, e tratamento de múltiplos formatos de data via `COALESCE` e `SAFE.PARSE_DATE`).
 - Mitiguei erros críticos de geolocalização unificando dados territoriais diretamente no banco de dados para garantir a plotagem correta de informações regionais.
 - Entreguei um dashboard de BI executivo interativo focado nas dores da Diretoria Financeira, apresentando KPIs de TTV, faturamento real, lucro líquido, tendências de sazonalidade temporal e mix de produtos.
-- 🔗 **[Ver Dashboard Interativo](https://datastudio.google.com/reporting/bdd26067-5a6a-49d9-852a-9c32d14d2042)**
+- 🔗 **[Acessar Repositório do Projeto](https://github.com/Guilherme0510/dashboard-financeiro)** | **[Ver Dashboard Interativo](https://datastudio.google.com/reporting/bdd26067-5a6a-49d9-852a-9c32d14d2042)**
 
 ---
 
